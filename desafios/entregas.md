@@ -5,7 +5,7 @@
   solidificar seu entendimento dos valores e princípios do Manifesto Ágil através de uma atividade
   colaborativa e desplugada.
 
-# Objetivo do Desafio:
-- Fixar o conteúdo do Manifesto Ágil e estimular o pensamento ágil na prática, aplicando seus princípios a   cenários hipotéticos de projetos.
+- Objetivo do Desafio:
+  Fixar o conteúdo do Manifesto Ágil e estimular o pensamento ágil na prática, aplicando seus princípios a   cenários hipotéticos de projetos.
 
 - DESAFIO 2: (da AULA 4) entrega: 16/Mar/2026

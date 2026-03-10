@@ -6,6 +6,7 @@
     colaborativa e desplugada.
     02. Objetivo do Desafio:
     Fixar o conteúdo do Manifesto Ágil e estimular o pensamento ágil na prática, aplicando seus princípios a   cenários hipotéticos de projetos.
+      03. Entregar um slides com nomes dos integrantes e tema (área) do projeto futuro.
 
 - DESAFIO 2: (da AULA 4) entrega: 16/Mar/2026
   01. Desafio 2: Trabalho em Equipe Prático na Disciplina

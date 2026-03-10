@@ -27,3 +27,6 @@
   01. Programação em Papel Quadriculado
   02. Objetivo Andragógico: Este desafio desplugado (sem computadores) tem como objetivo ensinar os fundamentos de algoritmos e sequenciamento de instruções de forma prática e envolvente. Ao trabalhar em pares, os alunos experimentam tanto a perspectiva de quem cria código quanto de quem executa instruções.
   03. A atividade ilustra conceitos fundamentais da programação: precisão nas instruções, depuração de erros, comunicação clara e a importância de seguir algoritmos exatos. É uma introdução tangível aos princípios da ciência da computação.
+
+# SUGESTÃO de Desafios para Smart City 
+- https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing

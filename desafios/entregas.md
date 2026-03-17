@@ -33,3 +33,4 @@
 - Exemplo de doc. Projetos: https://escritoriodeprojetos.com.br/guia-de-projetos/solucoes-em-gerenciamento-de-projetos/metodologia-de-gerenciamento-de-projetos/
 - Ferramenta Ágil (Trello): https://trello.com/
 - Ferramenta para Selecionar Ideias: https://miro.com/
+- Plataforma multidimensional que acelera o processo de desenvolvimento das cidades inteligentes: https://connectedsmartcities.com.br/

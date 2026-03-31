@@ -28,7 +28,7 @@
   02. Objetivo Andragógico: Este desafio desplugado (sem computadores) tem como objetivo ensinar os fundamentos de algoritmos e sequenciamento de instruções de forma prática e envolvente. Ao trabalhar em pares, os alunos experimentam tanto a perspectiva de quem cria código quanto de quem executa instruções.
   03. A atividade ilustra conceitos fundamentais da programação: precisão nas instruções, depuração de erros, comunicação clara e a importância de seguir algoritmos exatos. É uma introdução tangível aos princípios da ciência da computação.
   
-# Mini-Seminário 1
+# Mini-Seminário 1 (24 - 31/Março)
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.
 - Time 02: Emanuelle Andrade e Jéssica Costa (ap_digital).
 - Time 03: Bernado Tavares, Hicaro Miguel, João Victor Barros, Luis Felipe Marcos, Luiz Pedro, Pedro Victor, Rayana Oliveira, Rafaela Gabriele e Natanael .  
@@ -36,6 +36,9 @@
 - Time 05: João Cirilo, Brenda..., Heloise..., Raphael Pacheco, Ricardo Henrique e Thiago Arthur. 
 - Time 06: Arthur Felipe, Carlos Eduardo, Carlos Vinícius, Kauã Nicolas, Miguel Marques, Ricardo Araújo e Samuel Lucas
 - Time 07: Anderson Matias, Lucas Jacques, Rodrigo Santana, Vitor Alves e João Pedro.
+- Time 08: Aldemir, Nicolas, Luiz Souza, João Gabriel, Eduardo Lucas, Fábio Renan e Samuel.
+- Time 09: Ana Gabriela, Luís Miguel, Kaio Lucas Silva, Clara Beatriz, Dinah Miranda e Manoel Henrique.
+- Time 10: Davi Carvalho, Arthur Magalhães, Amauri Siqueira, Mateus José, Pedro Gonçalves, Ebert Tavares e Leonardo Ibrahim. 
 
 # SUGESTÃO - Desafios para Smart City 
 - https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing

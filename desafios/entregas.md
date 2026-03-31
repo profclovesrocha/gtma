@@ -28,7 +28,7 @@
   02. Objetivo Andragógico: Este desafio desplugado (sem computadores) tem como objetivo ensinar os fundamentos de algoritmos e sequenciamento de instruções de forma prática e envolvente. Ao trabalhar em pares, os alunos experimentam tanto a perspectiva de quem cria código quanto de quem executa instruções.
   03. A atividade ilustra conceitos fundamentais da programação: precisão nas instruções, depuração de erros, comunicação clara e a importância de seguir algoritmos exatos. É uma introdução tangível aos princípios da ciência da computação.
   
-# Mini-Seminário 
+# Mini-Seminário 1
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.
 - Time 02: ...
 - Time 03: ...

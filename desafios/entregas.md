@@ -43,7 +43,7 @@
 - Time 12: Guilherme Marques, Emmanuel Matheus, Wilton Ferreira, Higor da Silva, João Elias, Gilberto Oliveira e Eduardo. 
 
 # SUGESTÃO - Desafios para Smart City 
-- https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
+- Desafios para Smart City no link: https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
 - Exemplo de doc. Projetos: https://escritoriodeprojetos.com.br/guia-de-projetos/solucoes-em-gerenciamento-de-projetos/metodologia-de-gerenciamento-de-projetos/
 - Ferramenta Ágil (Trello): https://trello.com/
 - Ferramenta para Selecionar Ideias: https://miro.com/

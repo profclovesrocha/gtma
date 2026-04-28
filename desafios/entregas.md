@@ -25,7 +25,7 @@
 
 - DESAFIO 3: (da AULA 5) entrega: 23/Mar/2026
 
-  01. Programação em Papel Quadriculado
+  01. Programação em Papel Quadriculado.
 
   02. Objetivo Andragógico: Este desafio desplugado (sem computadores) tem como objetivo ensinar os fundamentos de algoritmos e sequenciamento de instruções de forma prática e envolvente. Ao trabalhar em pares, os alunos experimentam tanto a perspectiva de quem cria código quanto de quem executa instruções.
 
@@ -34,21 +34,33 @@
 - DESAFIO 4: (da AULA PRÁTICA LAB.1) entrega: 5/MAIO/2026
   
       01. Organizar o quadro ágil do time no Trell.com / conforme aula prática ministrada no laboratório 28/Abril.
-  
       02. Incluir todos os integrantes no quadro ágil.
-  
       03. Cadastrar todas os desafios e tarefas (cards) do time, com datas de entregas e responsáveis por cada atividade.
 
 - Desafio Final (AV2): Estruturado como um Seminário Avaliativo Integrador
       01. Este desafio foca na aplicação prática de métodos ágeis (Scrum/Kanban) para resolver problemas reais.
-  
       02. Desafio Final: Aplicação Prática Integrada (AV2)
-      - 1. O Objetivo do Desafio: As equipes devem atuar como uma squad ágil para desenvolver uma solução (MVP ou protótipo funcional) para um problema real, preferencialmente focado em Cidades Inteligentes (Smart Cities) ou nos desafios propostos por empresas parceiras no repositório da disciplina.
+  
+1. O Objetivo do Desafio: As equipes devem atuar como uma squad ágil para desenvolver uma solução (MVP ou protótipo funcional) para um problema real, preferencialmente focado em Cidades Inteligentes (Smart Cities) ou nos desafios propostos por empresas parceiras no repositório da disciplina.
 . A solução deve integrar os fundamentos de gestão de projetos tradicionais com a execução iterativa ágil.
   
 2. Formato: Seminário Avaliativo (Pitch & Demo)
 O seminário será realizado no formato de Pitch Deck, simulando uma apresentação para stakeholders ou investidores.
 - Tempo: Máximo de 5 a 10 minutos por equipe.
+3. Critérios de Avaliação (AV2)
+A nota da AV2 será composta pela média aritmética de três pilares principais, seguindo o padrão de aprovação da disciplina (M e dia≥7,0):
+
+Pilar
+Critério de Avaliação
+Peso
+Execução Ágil
+Uso correto de artefatos (Product Backlog, Sprint Backlog ou Quadro Kanban com limites de WIP) 30%.
+
+Qualidade Técnica
+Entrega de um incremento de produto funcional (MVP) e versionamento documentado no GitHuB 40%.
+
+Performance no Seminário
+Clareza no Pitch, capacidade de resposta a perguntas e colaboração visível entre os membros 30%.
 
 Estrutura da Apresentação:
 Introdução e Equipe: Papéis definidos (PO, Scrum Master, Time).

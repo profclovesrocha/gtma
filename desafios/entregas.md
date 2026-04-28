@@ -62,12 +62,26 @@ Entrega de um incremento de produto funcional (MVP) e versionamento documentado 
 Performance no Seminário
 Clareza no Pitch, capacidade de resposta a perguntas e colaboração visível entre os membros 30%.
 
-Estrutura da Apresentação:
+- Estrutura da Apresentação:
 Introdução e Equipe: Papéis definidos (PO, Scrum Master, Time).
 Problema: Descrição clara da dor do usuário/cidade.
 Metodologia: Demonstração do uso de Scrum ou Kanban (Backlog, Sprints, Quadro).
 A Solução (MVP): Apresentação do produto funcional ou protótipo.
 Resultados e Lições Aprendidas: Reflexão sobre a agilidade do time.
+
+. Exemplos de Como Solucionar em Equipe
+Para garantir o sucesso na AV2, as equipes devem adotar as seguintes práticas recomendadas nas fontes:
+Exemplo 01: Divisão de Papéis e Auto-organização O time não deve esperar ordens. O Product Owner prioriza o que gera mais valor para o cidadão/cliente no backlog, enquanto o Scrum Master garante que as cerimônias (como a Daily) ocorram para remover impedimentos.
+Exemplo 02: Gestão Visual com Trello/Kanban A equipe cria um quadro no Trello com as colunas: "A Fazer", "Em Progresso", "Revisão" e "Concluído". Eles aplicam o Limite de WIP, garantindo que nenhum desenvolvedor esteja sobrecarregado com muitas tarefas simultâneas, o que acelera a entrega do MVP.
+
+Exemplo 03: Desenvolvimento Incremental (Sprints) Em vez de tentar fazer tudo de uma vez, a equipe planeja ciclos de uma semana. Na primeira semana, entregam apenas a interface de cadastro. Na segunda, a funcionalidade principal. Isso garante que sempre haja um software funcionando para apresentar no seminário.
+
+Exemplo 04: Colaboração e Programação em Par Para resolver bugs complexos ou desenvolver módulos críticos, o time utiliza Pair Programming (dois membros trabalhando juntos no mesmo código), o que aumenta a qualidade e o compartilhamento de conhecimento.
+--------------------------------------------------------------------------------
+Instruções de Entrega
+Repositório: Todo o código e documentação (slides e artefatos ágeis) devem ser entregues no repositório oficial da disciplina no GitHub (PASTA DESAFIOS).
+
+Transparência: O progresso deve ser rastreável. O professor avaliará o histórico de commits e as atualizações no quadro de tarefas ao longo das semanas anteriores ao seminário.
   
 # Mini-Seminário 1 (24 - 31/Março e 14/Abril)
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.

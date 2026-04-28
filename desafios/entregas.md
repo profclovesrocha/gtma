@@ -32,7 +32,7 @@
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.
 - Time 02: Emanuelle Andrade e Jéssica Costa (ap_digital).
 - Time 03: Bernado Tavares, Hicaro Miguel, João Victor Barros, Luis Felipe Marcos, Luiz Pedro, Pedro Victor, Rayana Oliveira, Rafaela Gabriele e Natanael .  
-- Time 04: Carlos Eduardo de Vasconcelos, Flávia Carvalho, Júlia Coimbra, Adriane Vitoria e Gabrielle Sofia, Dimitris e Maria Eduarda.
+- Time 04: Carlos Eduardo de Vasconcelos, Júlia Coimbra, Adriane Vitoria e Gabrielle Sofia, Dimitrys e Maria Eduarda.
 - Time 05: João Cirilo, Brenda..., Heloise..., Raphael Pacheco, Ricardo Henrique e Thiago Arthur. 
 - Time 06: Arthur Felipe, Carlos Eduardo, Carlos Vinícius, Kauã Nicolas, Miguel Marques, Ricardo Araújo e Samuel Lucas
 - Time 07: Anderson Matias, Lucas Jacques, Rodrigo Santana, Vitor Alves e João Pedro.

@@ -36,7 +36,7 @@
 - Time 05: João Cirilo, Brenda..., Heloise..., Raphael Pacheco, Ricardo Henrique e Thiago Arthur. 
 - Time 06: Arthur Felipe, Carlos Eduardo, Carlos Vinícius, Kauã Nicolas, Miguel Marques, Ricardo Araújo e Samuel Lucas
 - Time 07: Anderson Matias, Lucas Jacques, Rodrigo Santana, Vitor Alves e João Pedro.
-- Time 08: Aldemir, Nicolas, Luiz Souza, João Gabriel, Eduardo Lucas, Fábio Renan e Samuel.
+- Time 08: Aldemir, Nicolas, Luiz Souza, João Gabriel, Eduardo Lucas, Leonardo, Fábio Renan e Samuel.
 - Time 09: Ana Gabriela, Luís Miguel, Kaio Lucas Silva, Clara Beatriz, Dinah Miranda e Manoel Henrique.
 - Time 10: Davi Carvalho, Arthur Magalhães, Amauri Siqueira, Mateus José, Pedro Gonçalves, Ebert Tavares e Leonardo Ibrahim.
 - Time 11: Mateus Ferreira, Icaro Henná e Caio Vinícius.

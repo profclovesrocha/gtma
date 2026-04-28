@@ -37,7 +37,7 @@
   
       02. Incluir todos os integrantes no quadro ágil.
   
-      03. Cadastrar todas os desafios e tarefas (cards) do time, com datas e responsáveis por cada atividade. 
+      03. Cadastrar todas os desafios e tarefas (cards) do time, com datas de entregas e responsáveis por cada atividade. 
   
 # Mini-Seminário 1 (24 - 31/Março e 14/Abril)
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.

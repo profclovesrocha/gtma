@@ -37,7 +37,25 @@
   
       02. Incluir todos os integrantes no quadro ágil.
   
-      03. Cadastrar todas os desafios e tarefas (cards) do time, com datas de entregas e responsáveis por cada atividade. 
+      03. Cadastrar todas os desafios e tarefas (cards) do time, com datas de entregas e responsáveis por cada atividade.
+
+- Desafio Final (AV2): Estruturado como um Seminário Avaliativo Integrador
+      01. Este desafio foca na aplicação prática de métodos ágeis (Scrum/Kanban) para resolver problemas reais.
+  
+      02. Desafio Final: Aplicação Prática Integrada (AV2)
+      - 1. O Objetivo do Desafio: As equipes devem atuar como uma squad ágil para desenvolver uma solução (MVP ou protótipo funcional) para um problema real, preferencialmente focado em Cidades Inteligentes (Smart Cities) ou nos desafios propostos por empresas parceiras no repositório da disciplina.
+. A solução deve integrar os fundamentos de gestão de projetos tradicionais com a execução iterativa ágil.
+  
+2. Formato: Seminário Avaliativo (Pitch & Demo)
+O seminário será realizado no formato de Pitch Deck, simulando uma apresentação para stakeholders ou investidores.
+- Tempo: Máximo de 5 a 10 minutos por equipe.
+
+Estrutura da Apresentação:
+Introdução e Equipe: Papéis definidos (PO, Scrum Master, Time).
+Problema: Descrição clara da dor do usuário/cidade.
+Metodologia: Demonstração do uso de Scrum ou Kanban (Backlog, Sprints, Quadro).
+A Solução (MVP): Apresentação do produto funcional ou protótipo.
+Resultados e Lições Aprendidas: Reflexão sobre a agilidade do time.
   
 # Mini-Seminário 1 (24 - 31/Março e 14/Abril)
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.

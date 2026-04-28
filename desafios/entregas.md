@@ -24,13 +24,19 @@
   Resultados documentados em slides apresentados aos colegas e entregues no repositório oficial no GitHub da disciplina.
 
 - DESAFIO 3: (da AULA 5) entrega: 23/Mar/2026
+
   01. Programação em Papel Quadriculado
+
   02. Objetivo Andragógico: Este desafio desplugado (sem computadores) tem como objetivo ensinar os fundamentos de algoritmos e sequenciamento de instruções de forma prática e envolvente. Ao trabalhar em pares, os alunos experimentam tanto a perspectiva de quem cria código quanto de quem executa instruções.
-  03. A atividade ilustra conceitos fundamentais da programação: precisão nas instruções, depuração de erros, comunicação clara e a importância de seguir algoritmos exatos. É uma introdução tangível aos princípios da ciência da computação.
+
+   03. A atividade ilustra conceitos fundamentais da programação: precisão nas instruções, depuração de erros, comunicação clara e a importância de seguir algoritmos exatos. É uma introdução tangível aos princípios da ciência da computação.
 
 - DESAFIO 4: (da AULA PRÁTICA LAB.1) entrega: 5/MAIO/2026
+  
       01. Organizar o quadro ágil do time no Trell.com / conforme aula prática ministrada no laboratório 28/Abril.
+  
       02. Incluir todos os integrantes no quadro ágil.
+  
       03. Cadastrar todas os desafios e tarefas (cards) do time, com datas e responsáveis por cada atividade. 
   
 # Mini-Seminário 1 (24 - 31/Março e 14/Abril)

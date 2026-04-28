@@ -41,6 +41,8 @@
 - Time 10: Davi Carvalho, Arthur Magalhães, Amauri Siqueira, Mateus José, Pedro Gonçalves, Ebert Tavares e Leonardo Ibrahim.
 - Time 11: Mateus Ferreira, Icaro Henná e Caio Vinícius.
 - Time 12: Guilherme Marques, Emmanuel Matheus, Wilton Ferreira, Higor da Silva, João Elias, Gilberto Oliveira e Eduardo. 
+- Time 13: Rafael José da Silva Santos,Marcos neto. 
+
 
 # SUGESTÃO - Desafios para Smart City 
 - Desafios para Smart City no link: https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing

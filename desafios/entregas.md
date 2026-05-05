@@ -37,46 +37,56 @@
       02. Incluir todos os integrantes no quadro ágil.
       03. Cadastrar todas os desafios e tarefas (cards) do time, com datas de entregas e responsáveis por cada atividade.
 
-- Desafio Final (AV2): Estruturado como um Seminário Avaliativo Integrador
-      01. Este desafio foca na aplicação prática de métodos ágeis (Scrum/Kanban) para resolver problemas reais.
-      02. Desafio Final: Aplicação Prática Integrada (AV2)
-  
-1. O Objetivo do Desafio: As equipes devem atuar como uma squad ágil para desenvolver uma solução (MVP ou protótipo funcional) para um problema real, preferencialmente focado em Cidades Inteligentes (Smart Cities) ou nos desafios propostos por empresas parceiras no repositório da disciplina.
-. A solução deve integrar os fundamentos de gestão de projetos tradicionais com a execução iterativa ágil.
-  
-2. Formato: Seminário Avaliativo (Pitch & Demo)
-O seminário será realizado no formato de Pitch Deck, simulando uma apresentação para stakeholders ou investidores.
-- Tempo: Máximo de 5 a 10 minutos por equipe.
-3. Critérios de Avaliação (AV2)
-A nota da AV2 será composta pela média aritmética de três pilares principais, seguindo o padrão de aprovação da disciplina (M e dia≥7,0):
+- Com base nas diretrizes da disciplina e nos materiais fornecidos, apresento a proposta para o **Desafio Final (AV2)**, estruturado como um **Seminário Avaliativo Integrador**. Este desafio foca na aplicação prática de métodos ágeis (Scrum/Kanban) para resolver problemas reais.
 
-Pilar
-Critério de Avaliação
-Peso
-Execução Ágil
-Uso correto de artefatos (Product Backlog, Sprint Backlog ou Quadro Kanban com limites de WIP) 30%.
+---
 
-Qualidade Técnica
-Entrega de um incremento de produto funcional (MVP) e versionamento documentado no GitHuB 40%.
+### **Desafio Final: Aplicação Prática Integrada (AV2)**
 
-Performance no Seminário
-Clareza no Pitch, capacidade de resposta a perguntas e colaboração visível entre os membros 30%.
+#### **1. O Objetivo do Desafio**
+As equipes devem atuar como uma *squad* ágil para desenvolver uma solução (MVP ou protótipo funcional) para um problema real, preferencialmente focado em **Cidades Inteligentes (Smart Cities)** ou nos desafios propostos por empresas parceiras no repositório da disciplina. A solução deve integrar os fundamentos de gestão de projetos tradicionais com a execução iterativa ágil.
 
-- Estrutura da Apresentação:
-Introdução e Equipe: Papéis definidos (PO, Scrum Master, Time).
-Problema: Descrição clara da dor do usuário/cidade.
-Metodologia: Demonstração do uso de Scrum ou Kanban (Backlog, Sprints, Quadro).
-A Solução (MVP): Apresentação do produto funcional ou protótipo.
-Resultados e Lições Aprendidas: Reflexão sobre a agilidade do time.
+#### **2. Formato: Seminário Avaliativo (Pitch & Demo)**
+O seminário será realizado no formato de **Pitch Deck**, simulando uma apresentação para stakeholders ou investidores.
+*   **Tempo:** Máximo de 5 a 10 minutos por equipe.
+*   **Estrutura da Apresentação:**
+    1.  **Introdução e Equipe:** Papéis definidos (PO, Scrum Master, Time).
+    2.  **Problema:** Descrição clara da dor do usuário/cidade.
+    3.  **Metodologia:** Demonstração do uso de Scrum ou Kanban (Backlog, Sprints, Quadro).
+    4.  **A Solução (MVP):** Apresentação do produto funcional ou protótipo.
+    5.  **Resultados e Lições Aprendidas:** Reflexão sobre a agilidade do time.
 
-. Exemplos de Como Solucionar em Equipe
+---
+
+#### **3. Critérios de Avaliação (AV2)**
+A nota da AV2 será composta pela média aritmética de três pilares principais, seguindo o padrão de aprovação da disciplina ($Média \ge 7,0$):
+
+| Pilar | Critério de Avaliação | Peso |
+| :--- | :--- | :--- |
+| **Execução Ágil** | Uso correto de artefatos (Product Backlog, Sprint Backlog ou Quadro Kanban com limites de WIP). | 30% |
+| **Qualidade Técnica** | Entrega de um incremento de produto funcional (MVP) e versionamento documentado no GitHub. | 40% |
+| **Performance no Seminário** | Clareza no Pitch, capacidade de resposta a perguntas e colaboração visível entre os membros. | 30% |
+
+---
+
+#### **4. Exemplos de Como Solucionar em Equipe**
+
 Para garantir o sucesso na AV2, as equipes devem adotar as seguintes práticas recomendadas nas fontes:
-Exemplo 01: Divisão de Papéis e Auto-organização O time não deve esperar ordens. O Product Owner prioriza o que gera mais valor para o cidadão/cliente no backlog, enquanto o Scrum Master garante que as cerimônias (como a Daily) ocorram para remover impedimentos.
-Exemplo 02: Gestão Visual com Trello/Kanban A equipe cria um quadro no Trello com as colunas: "A Fazer", "Em Progresso", "Revisão" e "Concluído". Eles aplicam o Limite de WIP, garantindo que nenhum desenvolvedor esteja sobrecarregado com muitas tarefas simultâneas, o que acelera a entrega do MVP.
 
-Exemplo 03: Desenvolvimento Incremental (Sprints) Em vez de tentar fazer tudo de uma vez, a equipe planeja ciclos de uma semana. Na primeira semana, entregam apenas a interface de cadastro. Na segunda, a funcionalidade principal. Isso garante que sempre haja um software funcionando para apresentar no seminário.
+*   **Exemplo 01: Divisão de Papéis e Auto-organização**
+    O time não deve esperar ordens. O **Product Owner** prioriza o que gera mais valor para o cidadão/cliente no backlog, enquanto o **Scrum Master** garante que as cerimônias (como a *Daily*) ocorram para remover impedimentos.
+*   **Exemplo 02: Gestão Visual com Trello/Kanban**
+    A equipe cria um quadro no Trello com as colunas: "A Fazer", "Em Progresso", "Revisão" e "Concluído". Eles aplicam o **Limite de WIP**, garantindo que nenhum desenvolvedor esteja sobrecarregado com muitas tarefas simultâneas, o que acelera a entrega do MVP.
+*   **Exemplo 03: Desenvolvimento Incremental (Sprints)**
+    Em vez de tentar fazer tudo de uma vez, a equipe planeja ciclos de uma semana. Na primeira semana, entregam apenas a interface de cadastro. Na segunda, a funcionalidade principal. Isso garante que sempre haja um **software funcionando** para apresentar no seminário.
+*   **Exemplo 04: Colaboração e Programação em Par**
+    Para resolver bugs complexos ou desenvolver módulos críticos, o time utiliza **Pair Programming** (dois membros trabalhando juntos no mesmo código), o que aumenta a qualidade e o compartilhamento de conhecimento.
 
-Exemplo 04: Colaboração e Programação em Par Para resolver bugs complexos ou desenvolver módulos críticos, o time utiliza Pair Programming (dois membros trabalhando juntos no mesmo código), o que aumenta a qualidade e o compartilhamento de conhecimento.
+---
+
+### **Instruções de Entrega**
+1.  **Repositório:** Todo o código e documentação (slides e artefatos ágeis) devem ser entregues no repositório oficial da disciplina no **GitHub**.
+2.  **Transparência:** O progresso deve ser rastreável. O professor avaliará o histórico de *commits* e as atualizações no quadro de tarefas ao longo das semanas anteriores ao seminário.
 --------------------------------------------------------------------------------
 Instruções de Entrega
 Repositório: Todo o código e documentação (slides e artefatos ágeis) devem ser entregues no repositório oficial da disciplina no GitHub (PASTA DESAFIOS).

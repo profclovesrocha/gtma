@@ -23,7 +23,7 @@
   05. Apresentação e Entrega
   Resultados documentados em slides apresentados aos colegas e entregues no repositório oficial no GitHub da disciplina.
 
-- DESAFIO 3: (da AULA 5) entrega: 23/Mar/2026
+- DESAFIO 3: (da AULA 5) entrega: 23/Mar/2026 Prorrogado: 19/Maio
 
   01. Programação em Papel Quadriculado.
 

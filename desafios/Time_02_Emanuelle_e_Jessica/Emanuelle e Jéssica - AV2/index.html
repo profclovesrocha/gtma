@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cidadão Alerta - Smart City</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🚨 Cidadão Alerta</h1>
+        <p>Reporte problemas na sua cidade de forma rápida.</p>
+    </header>
+
+    <main>
+        <section class="form-section">
+            <h2>Registrar Ocorrência</h2>
+            <form id="reportForm">
+                <label for="tipo">Tipo de Problema:</label>
+                <select id="tipo" required>
+                    <option value="">Selecione...</option>
+                    <option value="Buraco na via">Buraco na via</option>
+                    <option value="Iluminação pública">Iluminação pública defeituosa</option>
+                    <option value="Vazamento de água">Vazamento de água</option>
+                    <option value="Lixo acumulado">Lixo acumulado</option>
+                </select>
+
+                <label for="bairro">Bairro / Localização:</label>
+                <input type="text" id="bairro" placeholder="Ex: Centro, Rua das Flores" required>
+
+                <label for="descricao">Descrição Breve:</label>
+                <textarea id="descricao" rows="3" placeholder="Detalhe o problema..." required></textarea>
+
+                <button type="submit">Enviar Relato</button>
+            </form>
+        </section>
+
+        <section class="mural-section">
+            <h2>Mural de Ocorrências</h2>
+            <div id="listaOcorrencias">
+                <p class="empty-msg">Nenhuma ocorrência registrada ainda.</p>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>

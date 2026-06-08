@@ -98,7 +98,7 @@ Transparência: O progresso deve ser rastreável. O professor avaliará o histó
 - Time 02: Emanuelle Andrade e Jéssica Costa (ap_digital).
 - Time 03: Bernado Tavares, Hicaro Miguel, João Victor Barros, Luis Felipe Marcos, Luiz Pedro, Pedro Victor, Rayana Oliveira, Rafaela Gabriele e Natanael .  
 - Time 04: Carlos Eduardo de Vasconcelos, Júlia Coimbra,Adrianne Vitória,Gabrielle Sofia, Dimitrys Souza e Maria Eduarda.
-- Time 05: João Cirilo, Brenda..., Heloise..., Raphael Pacheco, Ricardo Henrique e Thiago Arthur,Flávia Carvalho. 
+- Time 05: João Cirilo, Brenda..., Heloise..., Raphael Pacheco, Ricardo Henrique, Cauã Henrique, Thiago Arthur e Flávia Carvalho. 
 - Time 06: Arthur Felipe, Carlos Eduardo, Carlos Vinícius, Kauã Nicolas, Miguel Marques, Ricardo Araújo e Samuel Lucas
 - Time 07: Anderson Matias, Lucas Jacques, Rodrigo Santana, Vitor Alves e João Pedro.
 - Time 08: Aldemir, Nicolas, Luiz Souza, João Gabriel, Eduardo Lucas, Leonardo, Fábio Renan e Samuel.

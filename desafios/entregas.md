@@ -96,7 +96,7 @@ Transparência: O progresso deve ser rastreável. O professor avaliará o histó
 # Mini-Seminário 1 (24 - 31/Março e 14/Abril)
 - Time 01: Kauã Melo, Renato Pedrosa, Heitor Macedo, Lucas Macedo, Túlio Barbosa, Vitor Rafael e Tamires Costa.
 - Time 02: Emanuelle Andrade e Jéssica Costa (ap_digital).
-- Time 03: Bernado Tavares, Hicaro Miguel, João Victor Barros, Luis Felipe Marcos, Luiz Pedro, Pedro Victor, Rafaela Gabriele e Natanael .  
+- Time 03: Bernado Tavares, Hicaro Miguel, João Victor Barros, Luis Felipe Marcos, Luiz Pedro, Pedro Victor e Natanael .  
 - Time 04: Carlos Eduardo de Vasconcelos, Júlia Coimbra,Adrianne Vitória,Gabrielle Sofia, Dimitrys Souza e Maria Eduarda.
 - Time 05: João Cirilo, Brenda..., Heloise..., Raphael Pacheco, Ricardo Henrique, Cauã Henrique, Thiago Arthur e Flávia Carvalho. 
 - Time 06: Arthur Felipe, Carlos Eduardo, Carlos Vinícius, Kauã Nicolas, Miguel Marques, Ricardo Araújo e Samuel Lucas
@@ -105,7 +105,7 @@ Transparência: O progresso deve ser rastreável. O professor avaliará o histó
 - Time 09: Ana Gabriela, Luís Miguel, Kaio Lucas Silva, Clara Beatriz, Dinah Miranda e Manoel Henrique.
 - Time 10: Davi Carvalho, Arthur Magalhães, Amauri Siqueira, Mateus José, Pedro Gonçalves, Ebert Tavares e Leonardo Ibrahim.
 - Time 11: Mateus Ferreira, Icaro Henná e Caio Vinícius.
-- Time 12: Guilherme Marques, Emmanuel Matheus, Wilton Ferreira, Higor da Silva, João Elias, Gilberto Oliveira, Eduardo e Rayana Oliveira. 
+- Time 12: Guilherme Marques, Emmanuel Matheus, Wilton Ferreira, Higor da Silva, João Elias, Gilberto Oliveira, Eduardo, Rayana Oliveira e Rafaela Gabriele.
 - Time 13: Rafael José da Silva Santos,Marcos neto. 
 
 # SUGESTÃO - Desafios para Smart City 
